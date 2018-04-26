@@ -2,7 +2,7 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlznsgap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.app1"
+id = "com.phonegap.app3"
 version ="1.0.0">
 
 <name> app3-git Dia Mundial de la Bicicleta </name>
@@ -39,5 +39,5 @@ Flores de los Santos Maria Juana
 <!--<plugin name="cordova-plugin-geolocation" source="npm"/> -->
 <!--Third party plugins-->
 <!-- Colocar icono app-->
-<icon src="res/android/mdpi.png"/>
+<icon src="res/android/Travel-Bicycle-icon.png"/>
 </widget>
